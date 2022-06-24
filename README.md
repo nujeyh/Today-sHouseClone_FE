@@ -31,14 +31,13 @@
  - 마이페이지 (게시물 보기 & 이동)
  - [x] 게시물 스크랩
 
-
-## 3. 와이어프레임
-
-#### [외부 링크 >](https://xd.adobe.com/view/3054b167-a084-47b1-88c3-2189edaabae9-6507/screen/aba91a45-6650-4794-bdfd-6063aba69074/)
-
-## 4. 기능 시연
+## 3. 기능 시연
 
 #### [Youtube >](https://youtu.be/zAvD6PhWlJE)
+
+## 4. 와이어프레임
+
+#### [외부 링크 >](https://xd.adobe.com/view/3054b167-a084-47b1-88c3-2189edaabae9-6507/screen/aba91a45-6650-4794-bdfd-6063aba69074/)
 
 
 
