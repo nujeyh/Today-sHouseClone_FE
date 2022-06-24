@@ -1,6 +1,6 @@
 # 오늘의집 클론 코딩
 
-![썸네일](https://user-images.githubusercontent.com/102412614/175282488-30ea1c50-ac4f-4c76-a3f8-64ae0cda17f4.png)
+<img src=https://user-images.githubusercontent.com/102412614/175282488-30ea1c50-ac4f-4c76-a3f8-64ae0cda17f4.png height=400>
 
 ## 1. 프로젝트 개요
 
