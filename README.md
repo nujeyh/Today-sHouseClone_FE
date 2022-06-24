@@ -14,6 +14,8 @@
 ## 2. 구현 기능
 - [x] 맡은 기능
 
+#### [WIKI에서 자세히 보기 >](https://github.com/nujeyh/Today-sHouseClone_FE/wiki)
+
 #### 주요 기능
  - 회원가입, 로그인
  - [x] 게시물 작성, 수정, 삭제
@@ -32,11 +34,11 @@
 
 ## 3. 와이어프레임
 
-[외부 링크 >](https://xd.adobe.com/view/3054b167-a084-47b1-88c3-2189edaabae9-6507/screen/aba91a45-6650-4794-bdfd-6063aba69074/)
+#### [외부 링크 >](https://xd.adobe.com/view/3054b167-a084-47b1-88c3-2189edaabae9-6507/screen/aba91a45-6650-4794-bdfd-6063aba69074/)
 
 ## 4. 기능 시연
 
-[Youtube >](https://youtu.be/zAvD6PhWlJE)
+#### [Youtube >](https://youtu.be/zAvD6PhWlJE)
 
 
 
