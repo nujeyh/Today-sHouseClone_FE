@@ -34,11 +34,11 @@
 
 ## 3. 와이어프레임
 
-#### [외부 링크 >](https://xd.adobe.com/view/3054b167-a084-47b1-88c3-2189edaabae9-6507/screen/aba91a45-6650-4794-bdfd-6063aba69074/)
+#### [외부 링크 >](https://xd.adobe.com/view/3054b167-a084-47b1-88c3-2189edaabae9-6507/screen/aba91a45-6650-4794-bdfd-6063aba69074/){:target="_blank"}
 
 ## 4. 기능 시연
 
-#### [Youtube >](https://youtu.be/zAvD6PhWlJE)
+#### [Youtube >](https://youtu.be/zAvD6PhWlJE){:target="_blank"}
 
 
 
